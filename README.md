@@ -1,1 +1,1 @@
-# Git_practice
+# Hello this my sample repository
